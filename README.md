@@ -63,7 +63,7 @@ ghost-job-detection-fraud-monitoring/│
 │   ├── ghost_score_chart.png
 │   └── fraud_by_risk.png
 │
-├── INSIGHT.md
+├── INSIGHTS.md
 │
 └── README.md
 ```
